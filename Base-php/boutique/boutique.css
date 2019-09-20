@@ -1,0 +1,21 @@
+.img-article{
+    height: 50%;
+    width: 50%;
+
+}
+.titreArticle{
+    text-shadow: 10px 10px 13px black;
+    color: #2f8bff;
+    font-weight: bolder;
+    font-size: 100px;
+}
+.header-home{
+    height: 500px;
+    background-image: url("photo/tq0ycmd959xb.jpg");
+    background-size: 2000px 800px;
+    background-repeat: no-repeat;
+}
+
+h6{
+    font-weight: bolder;
+}
